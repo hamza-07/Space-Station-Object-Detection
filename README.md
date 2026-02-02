@@ -1,1 +1,1 @@
-# Space-Station-Object-Detection
+# Object-Detection (AIT-CV-Hackathon-2026)
